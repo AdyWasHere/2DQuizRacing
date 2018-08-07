@@ -21,4 +21,5 @@
 Contact:
 
 www.steemit.com/@ady-was-here
+<br>
 www.steemit.com/@radudangratian
