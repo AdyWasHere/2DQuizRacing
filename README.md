@@ -1,8 +1,19 @@
-2DQuizRacing (Not the final name, we'll figure one at the end of the project)
+### 2DQuizRacing Game (New name once we get the game ready to be published)
 
-The idea of the game:
+###### Purpose of the game:
 
-Get your own car, put it on the track and race the others. Each correct answer will boost your speed, each wrong answer will boost your opponents.
+- interactive quiz game
+- make children develop their basic knowledge in a "different way"
+- the quiz's questions will have different levels of difficulty from easy to moderate
 
 
-More details will be updated here later on.
+###### To do list: (will be update as many times as possible)
+
+- graphics
+- sounds
+- menu
+- finish current quiz set
+- update the UI
+
+
+###### More details will be updated here later on.
