@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5a5cf2fb5a4dca7459c80c5f49b96f32
+timeCreated: 1533561356
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Digital dream Fat
+  fontNames:
+  - Digital dream Fat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
