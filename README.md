@@ -17,3 +17,8 @@
 
 
 ###### More details will be updated here later on.
+
+Contact:
+
+www.steemit.com/@ady-was-here
+www.steemit.com/@radudangratian
